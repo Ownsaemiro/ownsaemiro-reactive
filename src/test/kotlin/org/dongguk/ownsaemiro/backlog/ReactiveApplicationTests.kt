@@ -1,10 +1,10 @@
-package org.dongguk.ownsaemiro.reactive
+package org.dongguk.ownsaemiro.backlog
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class ReactiveApplicationTests {
+class BacklogApplicationTests {
 
 	@Test
 	fun contextLoads() {
